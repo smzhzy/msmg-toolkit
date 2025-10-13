@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Microsoft will officially end support for Windows 10 on 14 October 2025.</h1>
-  <p>As I’ve personally switched to Linux, this project is no longer relevant to me and will no longer be maintained.</p>
+  <h1>I’ve switched to Linux (Arch btw).</h1>
   <a href="https://msmgtoolkit.in" target="_blank">
   <img src="https://user-images.githubusercontent.com/89072438/168812773-7dc24fec-deb5-4105-ad19-4d00b9825adf.png" alt="MSMG Toolkit Logo">
 </a>
